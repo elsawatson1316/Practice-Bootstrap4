@@ -1,0 +1,48 @@
+body {
+    font-family: Nunito;
+    background-color: #f5d9d5;
+}
+
+.navbar.scrolled {
+    background: rgb(222,192,222);
+    transition: background 500ms;
+}
+
+#heading {
+    background-image: url(./imgs/hand2.png);
+    background-size: cover; 
+    background-position: center;
+}
+
+#passage {
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;  
+}
+
+.subtitle {
+    font-weight: 100;    
+}
+
+#passage__1 {
+    background-image: url(./imgs/gumball.png);
+    background-size: cover; 
+    background-position: center;    
+}
+
+#passage__2 {
+    background-image: url(./imgs/milk.png);
+    background-size: cover; 
+    background-position: center;    
+}
+
+#passage__3 {
+    background-image: url(./imgs/sprinkles.png);
+    background-size: cover; 
+    background-position: center;    
+}
+
+span {
+    color:#EA1C2C;
+}
