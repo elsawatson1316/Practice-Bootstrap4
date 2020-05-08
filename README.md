@@ -2,4 +2,4 @@
 
 ### Bootstrap4 landing page 
 
-### Bootstrap RWD 
+### Bootstrap4 RWD 
